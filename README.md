@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Website : https://atfatmc.com/ <br>✨ Linkedin : https://www.linkedin.com/in/atifatmaca/ <br>✨ Instagram : https://www.instagram.com/atfatmc/</p>
 
 ###
 
