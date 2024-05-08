@@ -1,8 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atfatmc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atfatmc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atfatmc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ###
 
 <p align="left">My name is Atif and I'm a Database Administrator and Big Data Architecture</p>
